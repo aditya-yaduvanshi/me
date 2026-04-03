@@ -11,6 +11,9 @@
   },
   "devDependencies": {
     "@radix-ui/react-switch": "^1.1.4",
+
+
+    
     "@tailwindcss/typography": "^0.5.15",
     "@tailwindcss/vite": "^4.2.2",
     "@types/node": "^25.5.1",
